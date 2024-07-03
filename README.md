@@ -16,4 +16,4 @@ How to run?
 5.if you want to see the output images download a software to view ppm images or just convert from online using converters.
 
 
-Note:::: I have edited the previously present files in the sample labratory hence some files may be useless and names might be misguiding .I have clearly mentioned the useful files in the read me .Please do not delete any files -cause who knows it may lead to failure of code .Thanks!""
+Note::::Make Sure you have all neccessary libraries installed! I have edited the previously present files in the sample labratory(week 5 cuda scale enterprise) hence some files may be useless and names might be misguiding .I have clearly mentioned the useful files in the read me .Please do not delete any files -cause who knows it may lead to failure of code .Thanks!""
