@@ -17,3 +17,7 @@ How to run?
 
 
 Note::::Make Sure you have all neccessary libraries installed! I have edited the previously present files in the sample labratory(week 5 cuda scale enterprise) hence some files may be useless and names might be misguiding .I have clearly mentioned the useful files in the read me .Please do not delete any files -cause who knows it may lead to failure of code .Thanks!""
+
+
+
+update!!!:Removed files img7.ppm and img10.ppm due to size and modified the code to work for the rest ,for adding them download from google drive folder and modify the code to include the remaining ones----"Thanks!";
