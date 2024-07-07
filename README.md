@@ -9,7 +9,7 @@ Desc: The code takes in 10 ppm format images named img1 to img10  and convert th
 3.Then i tampered with highlights and shadows of the images to attain a polaroid effect.Note you change this according to your liking .I have commented it (just find something named shadows ).
 
 How to run?
-XX:The main code is inside the file"ImageCropper" in folder boxFilterNPP:XX
+XX:The main code is inside the file"ImageCropper" in folder boxFilterNPP:XX(using cuda at scale for the enterprise lab week 5 (boxfilter), run in that environment if any error)
 
 1.type "cd boxFilterNPP"  to change the directory to code directory
 2.write "make clean build" if auto run of python do not work for some reason.
