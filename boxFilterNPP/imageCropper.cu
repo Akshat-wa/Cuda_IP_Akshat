@@ -46,7 +46,7 @@ __global__ void adjustShadowsHighlightsKernel(unsigned char* img, int width, int
         if (pixel <= 128) {
             img[idx] = static_cast<unsigned char>(min(255.0f, pixel * 1.1f)); // Increase shadows by 10%
         } else {
-            img[idx] = static_cast<unsigned char>(max(0.0f, pixel * 0.9f)); // Decrease highlights by 10%
+            img[idx] = static_cast<unsigned char>(max(0.0f, pixel * 1.16f)); // Decrease highlights by 16%
         }
     }
 }
